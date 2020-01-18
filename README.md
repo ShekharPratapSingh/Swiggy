@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Qspiders
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
@@ -46,6 +47,10 @@ Swiggy App with Login and SignUp Functionality
 # swiggy
 Swiggy App with Login ,signUp and Logout Functionality
 >>>>>>> 528b9144699842db51a612aa316aaf4530d67ffd
+=======
+# Swiggy
+Swiggy App with Login and Sign Functionality with Google Firebase
+>>>>>>> 7b840fb76afe0ad9cba1ca5c754dc445eaa2b7a9
 =======
 # Swiggy
 Swiggy App with Login and Sign Functionality with Google Firebase
