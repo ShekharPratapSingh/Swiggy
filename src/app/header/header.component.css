@@ -1,0 +1,11 @@
+svg {
+    fill: #fc8019;
+    position: relative;
+    top: 61px;
+}
+.nav-item a:nth-child(1){
+    font-weight: bold !important;
+}
+.bg-light{
+    background-color:white  !important;
+}
